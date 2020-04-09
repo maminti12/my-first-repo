@@ -9,8 +9,8 @@ Qui-Gon: But not at the expense of the moment. Be mindful of the living Force, y
 
 *Something rare is precious,
 Study it, do not let it go.
-Understand it and make it your own.
-- (David Attenborough)*
+Understand it and make it your own.*
+(David Attenborough)
 
 
 Here could be `some code` in the middle of a sentence. (But why?)
