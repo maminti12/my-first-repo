@@ -1,0 +1,17 @@
+commit e9fb51768926126bed0a13e9920eff92dc1f6aa2
+Author: maminti12 <maminti12@gmail.com>
+Date:   Thu Apr 9 21:28:25 2020 +0200
+
+    added gitignore
+
+commit 3d4e71b26d77ad2004f6da6dcd2ed517be0f73f3
+Author: maminti12 <maminti12@gmail.com>
+Date:   Thu Apr 9 21:02:14 2020 +0200
+
+    added two files
+
+commit d5441215bc9453af41a273eee594090b49f23e9a
+Author: maminti12 <maminti12@gmail.com>
+Date:   Thu Apr 9 20:54:31 2020 +0200
+
+    added readme.txt
