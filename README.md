@@ -1,28 +1,26 @@
-# This is a large heading
+# Maminiti, the little green fairy
 
-## This is a smaller heading
+## This is my playground
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+**YOUR FOCUS DETERMINES YOUR REALITY** 
+*Qui-Gon: Don't center on your anxieties, Obi-Wan. Keep your concentration here and now, where it belongs.
+Obi-Wan: But Master Yoda said I should be mindful of the future.
+Qui-Gon: But not at the expense of the moment. Be mindful of the living Force, young Padawan.*
 
-- This is
-- an unordered
-- list
+*Something rare is precious,
+Study it, do not let it go.
+Understand it and make it your own.
+- (David Attenborough)*
 
-1. This is
-2. an ordered
-3. list
 
-Here is `some code` in the middle of a sentence.
+Here could be `some code` in the middle of a sentence. (But why?)
 
 ```
-This is
+This will be
 a block
 of code
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+Drawings and paintings [a link](http://mamintialkot.blogspot.com/).
 
-![This is an image.](https://github.com/maminti12/my-first-repo/blob/master/le_nke_page028.gif)
+![Maminiti, herself.](https://github.com/maminti12/my-first-repo/blob/master/le_nke_page028.gif)
