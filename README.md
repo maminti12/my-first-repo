@@ -1,28 +1,25 @@
-# This is a large heading
+# Kinga Farkas
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth,
-The forms of things *unknown*, the poet’s pen,
-Turns them to shapes and gives to airy nothing,
-A local *habitation* and a **name**.
+I'm from Hungary, currently staying in Leiden, the Netherlands.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Last three books I've read:
 
-Here is `some code` in the middle of a sentence.
+- *Coraline* by Neil Gainman
+- *Neverwhere* by Neil Gainman
+- *Die unendliche Geschichte* by Michael Ende
+
 
 ```
-This is
-a block
-of code
+This will be
+a block of code
 ```
 
-Here is how you make [a link](https://www.wikipedia.org/).
+### Contact
 
-![This is an image.](https://github.com/maminti12/my-first-repo/blob/master/le_nke_page028.gif)
+You can contact me [on Twitter](https://www.twitter.com/maminti12).
+
+![This is Maminti.](https://github.com/maminti12/my-first-repo/blob/master/le_nke_page028.gif)
